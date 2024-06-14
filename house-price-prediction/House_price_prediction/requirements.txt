@@ -1,0 +1,16 @@
+#Python Version
+    Python 3.8 or later
+
+#Required Libraries
+Here are the required Python libraries along with their versions:
+
+    numpy: For numerical operations
+    pickle: For loading the saved machine learning model
+    streamlit: For building the web application interface
+    streamlit-option-menu: For creating an option menu in the sidebar
+    Pillow: For handling image loading
+
+pip install numpy==1.22.4
+pip install streamlit==1.13.0
+pip install streamlit-option-menu==0.3.2
+pip install pillow==9.3.0
