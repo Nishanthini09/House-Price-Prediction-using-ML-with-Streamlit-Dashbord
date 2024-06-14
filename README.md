@@ -2,7 +2,9 @@
 This project aims to predict house prices using machine learning techniques, specifically the XGBoost algorithm, on the Paris house price dataset. Exploratory Data Analysis (EDA) has been performed to better understand the dataset and its features.
 
 #Technologies Used
-Python
-Streamlit
-scikit-learn
-XGBoost
+-Python
+-Streamlit
+-scikit-learn
+-XGBoost
+
+
